@@ -1,3 +1,4 @@
+<p><img align="center" src="https://i.ibb.co/JKnVLgQ/git-bannar.png" alt="athiqur01" /></p>
 <h1 align="center">Hi 👋, I'm Md.Athiqur Rahman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
