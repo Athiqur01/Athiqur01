@@ -1,6 +1,6 @@
 <p><img align="center" src="https://i.ibb.co/JKnVLgQ/git-bannar.png" alt="athiqur01" /></p>
 <h1 align="center">Hi 👋, I'm Md.Athiqur Rahman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athiqur01&label=Profile%20views&color=0e75b6&style=flat" alt="athiqur01" /> </p>
 
